@@ -1,18 +1,13 @@
-.firstForm{
+.form{
   width: 619px;
-  height: 283px;
+  height: auto;
   background-color: #C4C4C4;
   font-family: Arial, Helvetica, sans-serif;
   padding: 16px;
+  margin-bottom: 20px;
 }
 
-.secondForm{
-  width: 619px;
-  height: 392px;
-  background-color: #C4C4C4;
-  font-family: Arial, Helvetica, sans-serif;
-  padding: 16px;
-}
+
 
 p{
   font-size: 18px;

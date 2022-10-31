@@ -1,8 +1,7 @@
-const Title=() => {
+const Title=(props) => {
     return (
       <div>
-        <h1 className="firstTitle">Lorem</h1>
-        <h1 className="secondTitle">Ipsum</h1>
+        <h1 >{props.name}</h1>
       </div>
     );
   }
