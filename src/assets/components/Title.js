@@ -1,6 +1,6 @@
 const Title=() => {
     return (
-      <div className="form">
+      <div>
         <h1 className="firstTitle">Lorem</h1>
         <h1 className="secondTitle">Ipsum</h1>
       </div>

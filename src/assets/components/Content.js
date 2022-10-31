@@ -3,16 +3,10 @@ import Description from "./Description"
 
 const Content= () => {
     return (
-        <>
-      <div className="firstForm">
+        <div className="form">
      <Title/>
      <Description/>
       </div>
-      <div className="secondForm">
-     <Title/>
-     <Description/>
-      </div>
-      </>
     );
   }
 
